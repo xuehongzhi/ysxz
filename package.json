@@ -1,0 +1,25 @@
+{
+  "name": "ysxz",
+  "version": "1.0.0",
+  "description": "有声下载",
+  "main": "download.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuehongzhi/ysxz.git"
+  },
+  "keywords": [
+    "ysxz"
+  ],
+  "author": "xuehz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuehongzhi/ysxz/issues"
+  },
+  "homepage": "https://github.com/xuehongzhi/ysxz#readme",
+  "dependencies": {
+    "jsdom": "^9.12.0"
+  }
+}
